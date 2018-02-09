@@ -14,4 +14,4 @@ remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
