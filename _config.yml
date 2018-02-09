@@ -1,0 +1,14 @@
+title: Sunny Snail
+email: liyantong14@gmail.com
+description: Stay hungry, stay foolish, stay young, stay explore.
+ 
+baseurl: https://alext1.github.io/
+url: ""
+twitter_username: AlexTong
+github_username:  AlexT1
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
