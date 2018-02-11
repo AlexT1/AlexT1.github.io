@@ -108,12 +108,10 @@ text-transform:none;
 h1 a:hover { color:#fba919 ;}
 
 #logo {  
-    position: relative;
-    width: 100%;  
-    height: 100%;  
-    line-height: 50px;  
-    text-align: center;  
+    width: 65%;  
+    height: 65%;   
 	background: url('/images/post-bg-os-metro.jpg') no-repeat rgba(255,255,255,0.3); 
+	margin: -50px 10px -30px -50px;
 }  
 
 .publish_date {
